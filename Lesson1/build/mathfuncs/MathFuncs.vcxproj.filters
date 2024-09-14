@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\cod\C++ Pro\Lesson1\mathfuncs\MathFuncs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\cod\C++ Pro\Lesson1\mathfuncs\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{70D326D2-807E-30F0-B9C4-01EDD14D9D6C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
