@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/cod/C++ Pro/build/mathfuncs",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/MathFuncs.dir/includes_CXX.rsp -g -o CMakeFiles\\MathFuncs.dir\\MathFuncs.cpp.obj -c \"E:\\cod\\C++ Pro\\Lesson1\\mathfuncs\\MathFuncs.cpp\"",
+  "file": "E:/cod/C++ Pro/Lesson1/mathfuncs/MathFuncs.cpp",
+  "output": "mathfuncs/CMakeFiles/MathFuncs.dir/MathFuncs.cpp.obj"
+}
+]

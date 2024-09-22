@@ -1,0 +1,10 @@
+^E:\COD\C++ PRO\LESSON4\BUILD\CMAKEFILES\23B35C0DC18FAD3A098BCEAD0BFC2C08\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SE:/cod/C++ Pro/Lesson4" "-BE:/cod/C++ Pro/Lesson4/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "E:/cod/C++ Pro/Lesson4/build/MyWeather.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

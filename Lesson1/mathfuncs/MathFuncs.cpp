@@ -20,9 +20,9 @@ int Math::multiply(int a, int b)
 /*Функция возведения в степень. Первый параметр целое число, второй степень в которую возвадим.*/
 int Math::square(int a, int b)
 {
-    int res;
+    int res = 0;
 
-    for(int i; i <= b; i++)
+    for(int i = 0; i <= b; i++)
     {
         res *= a;
     }
